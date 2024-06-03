@@ -1,0 +1,1 @@
+# Industrial_Equipment_Defect_Classification
